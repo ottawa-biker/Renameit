@@ -1,0 +1,1 @@
+java -classpath V:\Renameit;V:\Renameit\jna.jar;V:\Renameit\platform.jar Rename %1 %2 %3
